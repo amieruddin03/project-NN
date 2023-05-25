@@ -9,14 +9,6 @@ Original file is located at
     https://colab.research.google.com/drive/1P6daqItxj1j9GsqmvvUROoqOkhKk9Oig
 
 **Breast Cancer Classification with a simple Neural Network (NN)**
-
-Previous videos:
-
-
-*   Brest Cancer Classification with Logistic Regression video: https://youtu.be/bFh1umUDaGc
-*   EDA video: https://youtu.be/imdS1LIlISY
-*   Data Visualization video: https://youtu.be/gFSerq21wo8
-
 **Importing the Dependencies**
 """
 
